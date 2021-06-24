@@ -1,7 +1,6 @@
 # 國立工藝中心機器手臂雕刻系統
 
 ## 教育訓練第一階段
-[教材資料](https://github.com/yazelin/ntcri/tree/gh-pages/data/phase1)  
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGdj3K6otJ9wzi-ggKx_oaVl423BsqmbMnNgyEx3nW9s5VhohwkMc1zTCrAT_Z-kRHiAOagHBFmnh9/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 
@@ -9,7 +8,6 @@
 
 
 ## 教育訓練第二階段
-[教材資料](https://github.com/yazelin/ntcri/tree/gh-pages/data/phase2)  
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT369EzpxKhwOCspwKioTXbjvoh70BtfJEZOA2DT_TP5VD5-UZY-PZyC_ORCleRzCD6rQvRNoEwLNcm/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 
@@ -17,9 +15,13 @@
 
 
 ## 相關資料連結
+第一階段 [教材資料](https://github.com/yazelin/ntcri/tree/gh-pages/data/phase1)  
 機械手臂安全檢查表 ([線上](https://hungsiu.github.io/WtRobotTraining/01_Safety.html) / [pdf](./data/phase1/KUKA_Basic/機械手臂安全檢查表_20190710.pdf))  
 KRL語法 [KUKA KSS KRL Syntax](./data/phase1/KUKA_Basic/doc/KUKA%20KSS%20KRL%20Syntax.pdf)  
 KUKA機器人編程1 ([簡體中文](./data/phase1/KUKA_Basic/doc/zh-cn/KUKA機器人編程1.pdf) / [English](./data/phase1/KUKA_Basic/doc/en/KUKA%20Robot%20Programming%201.pdf))  
 KUKA機器人編程2 ([簡體中文](./data/phase1/KUKA_Basic/doc/zh-cn/KUKA機器人編程2.pdf))  
 [Robotmaster中文版教材](./data/phase1/Mastercam_Robotmaster/doc/1%20-%20Robotmaster中文版教材.pdf)  
 Mastercam ([2D](./data/phase1/Mastercam_Robotmaster/doc/Mastercam_2Dv2019-講義1(無LOGO).pdf) / [3D](./data/phase1/Mastercam_Robotmaster/doc/Mastercam_3DX9&v2017&2018-講義2(無LOGO).pdf) / [HLE試用版](https://signup.mastercam.com/demo-hle-mms))  
+
+第二階段 [教材資料](https://github.com/yazelin/ntcri/tree/gh-pages/data/phase2)  
+操作說明 [影片](https://drive.google.com/drive/folders/1uIw-Q6_r0Rd7-7Mr2XosG1CXMoCTh3o-?usp=sharing)
