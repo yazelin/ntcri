@@ -1,11 +1,12 @@
 # 國立工藝中心機器手臂雕刻系統 
 
 本系統由[卓智機器人](http://www.wtech.com.tw/)建置  
-[![雕刻Demo](./data/phase2/國立工藝中心精加工.png "雕刻Demo")](http://www.wtech.com.tw/forum/kuka/ntcri/%E5%9C%8B%E7%AB%8B%E5%8F%B0%E7%81%A3%E5%B7%A5%E8%97%9D%E7%99%BC%E5%B1%95%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83_20210618_%E7%B2%BE%E5%8A%A0%E5%B7%A5_%EF%BC%A3.m4v)  
+雕刻Demo(注意音量)
+[![雕刻Demo](./data/phase2/國立工藝中心精加工.png "雕刻Demo(注意音量)")](http://www.wtech.com.tw/forum/kuka/ntcri/%E5%9C%8B%E7%AB%8B%E5%8F%B0%E7%81%A3%E5%B7%A5%E8%97%9D%E7%99%BC%E5%B1%95%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83_20210618_%E7%B2%BE%E5%8A%A0%E5%B7%A5_%EF%BC%A3.m4v)  
 
 ## 教育訓練第一階段
 
-[mastercam&robotmaster筆記ppt](https://docs.google.com/presentation/d/1FccQ54oESAzE-IQll9g9t1H7MaTqwvUwJSwPAbgNxIs/edit?usp=sharing)  
+[mastercam&robotmaster&workvisual操作筆記ppt](https://docs.google.com/presentation/d/1FccQ54oESAzE-IQll9g9t1H7MaTqwvUwJSwPAbgNxIs/edit?usp=sharing)  
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGdj3K6otJ9wzi-ggKx_oaVl423BsqmbMnNgyEx3nW9s5VhohwkMc1zTCrAT_Z-kRHiAOagHBFmnh9/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 
