@@ -1,6 +1,7 @@
 # 國立工藝中心機器手臂雕刻系統 
 
-本系統由[卓智機器人](http://www.wtech.com.tw/)建置  
+本系統由[卓智機器人](http://www.wtech.com.tw/)建置
+系統建置記錄發表於[台灣機器人資訊平台](http://forum.wtech.com.tw/viewtopic.php?f=2&t=189)  
 雕刻Demo(注意音量)  
 [![雕刻Demo](./data/phase2/國立工藝中心精加工.png "雕刻Demo(注意音量)")](http://www.wtech.com.tw/forum/kuka/ntcri/%E5%9C%8B%E7%AB%8B%E5%8F%B0%E7%81%A3%E5%B7%A5%E8%97%9D%E7%99%BC%E5%B1%95%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83_20210618_%E7%B2%BE%E5%8A%A0%E5%B7%A5_%EF%BC%A3.m4v)  
   
