@@ -43,6 +43,20 @@
 
 </div>  
   
+##操作說明影片  
+
+<div class="google-slides-container"><iframe src="https://drive.google.com/file/d/14GEsy_Q67LT1Ax4Dlj2RokfQYtw-Hcqz/preview" frameborder="0" ></iframe></div>  
+<div class="google-slides-container"><iframe src="https://drive.google.com/file/d/1phK_JQ2Rwus8JAsU3pssnD1pGpp81I3I/preview" frameborder="0" ></iframe></div>  
+<div class="google-slides-container"><iframe src="https://drive.google.com/file/d/1uNbo5KbhyEi2J4rkcTiLA7dugnNIJEhu/preview" frameborder="0" ></iframe></div>  
+<div class="google-slides-container"><iframe src="https://drive.google.com/file/d/1Rk_1MUmGY3oT034pSdPR7FRCnpZfyJ5k/preview" frameborder="0" ></iframe></div>  
+<div class="google-slides-container"><iframe src="https://drive.google.com/file/d/1YU4gU84R76vdAIjpSN96AOZTMtJC3IHi/preview" frameborder="0" ></iframe></div>  
+<div class="google-slides-container"><iframe src="https://drive.google.com/file/d/1MhjG4vzfXDRGyHOl5x-hELUCIMVTe_hx/preview" frameborder="0" ></iframe></div>  
+<div class="google-slides-container"><iframe src="https://drive.google.com/file/d/1p5-Bc4qG0-3mPCeEL4PfWVA1O_QbxvjP/preview" frameborder="0" ></iframe></div>  
+<div class="google-slides-container"><iframe src="https://drive.google.com/file/d/1poNoP0BEUXKuEGrGGeUPMkoJxTIQt52R/preview" frameborder="0" ></iframe></div>  
+<div class="google-slides-container"><iframe src="https://drive.google.com/file/d/1wOzobp-lWrm6Xqm9RbXnTDUVzx7VEngc/preview" frameborder="0" ></iframe></div>  
+<div class="google-slides-container"><iframe src="https://drive.google.com/file/d/11osiISSuDQSWIuos9MbRxk9-RMmBvW1g/preview" frameborder="0" ></iframe></div>  
+<div class="google-slides-container"><iframe src="https://drive.google.com/file/d/1C3Id-Ha7nDUAb1YSEI0fDNszS0Wyd_MA/preview" frameborder="0" ></iframe></div>  
+  
   
 ## 相關資料連結
 
