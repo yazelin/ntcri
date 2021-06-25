@@ -1,3 +1,19 @@
+<style>
+.google-slides-container{
+    position: relative;
+    width: 100%;
+    padding-top: 60%;
+    overflow: hidden;
+}
+
+.google-slides-container iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
 # 國立工藝中心機器手臂雕刻系統 
 
 本系統由[卓智機器人](http://www.wtech.com.tw/)建置  
@@ -10,14 +26,22 @@
 
 [mastercam&robotmaster&workvisual操作筆記ppt](https://docs.google.com/presentation/d/1FccQ54oESAzE-IQll9g9t1H7MaTqwvUwJSwPAbgNxIs/edit?usp=sharing)  
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGdj3K6otJ9wzi-ggKx_oaVl423BsqmbMnNgyEx3nW9s5VhohwkMc1zTCrAT_Z-kRHiAOagHBFmnh9/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
+<div class="google-slides-container">
+	
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGdj3K6otJ9wzi-ggKx_oaVl423BsqmbMnNgyEx3nW9s5VhohwkMc1zTCrAT_Z-kRHiAOagHBFmnh9/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</div>  
   
   
 ## 教育訓練第二階段(立體加工)
 
 [系統介紹與操作ppt](https://docs.google.com/presentation/d/1qpNelRo3QcJ5XYIBj-xTKDRdOj8zt6ArvCv0Q9Uchbg/edit?usp=sharing)  
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT369EzpxKhwOCspwKioTXbjvoh70BtfJEZOA2DT_TP5VD5-UZY-PZyC_ORCleRzCD6rQvRNoEwLNcm/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
+<div class="google-slides-container">
+	
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT369EzpxKhwOCspwKioTXbjvoh70BtfJEZOA2DT_TP5VD5-UZY-PZyC_ORCleRzCD6rQvRNoEwLNcm/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</div>  
   
   
 ## 相關資料連結
